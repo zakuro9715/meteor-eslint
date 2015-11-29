@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "eslint": {
-      "version": "1.10.1",
+      "version": "1.10.2",
       "dependencies": {
         "chalk": {
           "version": "1.1.1",
@@ -70,7 +70,7 @@
           }
         },
         "doctrine": {
-          "version": "0.7.1",
+          "version": "0.7.2",
           "dependencies": {
             "esutils": {
               "version": "1.1.6"
@@ -679,10 +679,10 @@
           "version": "3.0.0",
           "dependencies": {
             "brace-expansion": {
-              "version": "1.1.1",
+              "version": "1.1.2",
               "dependencies": {
                 "balanced-match": {
-                  "version": "0.2.1"
+                  "version": "0.3.0"
                 },
                 "concat-map": {
                   "version": "0.0.1"
