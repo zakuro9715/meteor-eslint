@@ -1,6 +1,6 @@
 Package.describe({
   name: 'zakuro:eslint',
-  version: '1.10.2',
+  version: '1.10.3',
   summary: 'Lint all js files with eslint',
   git: 'https://github.com/zakuro9715/meteor-eslint.git',
   documentation: '../../README.rst',
@@ -12,7 +12,7 @@ Package.registerBuildPlugin({
     'plugin/eslint.js',
   ],
   npmDependencies: {
-    'eslint': '1.10.2',
+    'eslint': '1.10.3',
   }
 })
 
